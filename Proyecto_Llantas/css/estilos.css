@@ -109,6 +109,7 @@ footer {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*SERVICIOS*/
 .serv{
     text-align: center;
@@ -126,6 +127,8 @@ footer {
 }
 
 =======
+=======
+>>>>>>> sucursales
 /* PRODUCTOS */
 .container{
     width: 100%;
@@ -156,6 +159,7 @@ footer {
 #txt{
     color: black;
 }
+<<<<<<< HEAD
 
 .modal-header{
     color: black;
@@ -204,6 +208,55 @@ footer {
     shape-margin: 10px;
 }
 
+=======
+
+.modal-header{
+    color: black;
+}
+
+#logoProd{
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-right: 40%;
+    shape-margin: 10px;
+}
+
+#productos{
+    background-color:azure;
+}
+
+/*SERVICIOS*/
+.serv{
+    text-align: center;
+    margin: 10%;
+    margin-top: 0%;
+}
+
+.botones #Ba, #Ali, #Ro, #Ma{
+    margin-top: 5%;
+    margin-left: 40px;
+    margin-right: 10px;
+    shape-margin: 10px;
+    font-size: 20px;
+    border-radius: 5%;
+}
+
+#Bserv{
+    background-color: darkred;
+    text-align: center;
+    font-family: sans;
+    color: black;
+    font-size: 20px;
+}
+
+#logoser{
+    margin-top: 40px;
+    margin-left: 140px;
+    margin-right: 10%;
+    shape-margin: 10px;
+}
+
+>>>>>>> sucursales
 #info{
     border-radius: 30px;
 }
